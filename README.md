@@ -9,6 +9,7 @@
 
 ### Works
 #### azooKey - 自由自在なキーボードアプリ
+！[azooKey](https://raw.github.com/ensan-hcl/ensan-hcl/main/azooKey_image.png)
 iOS向けの日本語キーボードアプリをApp Storeで公開しています。
 * [App Store](https://apps.apple.com/jp/app/id1542709230)
 * [Website](https://azookey.netlify.app/)

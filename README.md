@@ -14,6 +14,10 @@ iOS向けの日本語キーボードアプリをApp Storeで公開していま�
 * [App Store](https://apps.apple.com/jp/app/id1542709230)
 * [Website](https://azookey.netlify.app/)
 
+#### 発音しないチャレンジ
+入力された単語をなるべく黙字で読むことで、発音せずに済ませるゲーム？です。GitHub Pagesで公開しています。
+* [発音しないチャレンジ](https://ensan-hcl.github.io/NotPronouncingChallenge)
+
 ### Links
 * [Qiita](https://qiita.com/ensan_hcl)
 * [Zenn](https://zenn.dev/en3_hcl)

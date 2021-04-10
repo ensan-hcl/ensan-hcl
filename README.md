@@ -1,6 +1,10 @@
-### Who am I
-* 日本語話者🇯🇵
-* 大学生🏫
+### Data
+* 日本語話者(Japanese speaker)🇯🇵
+* 大学生(University student)🏫
+
+### Skills
+* Swiftがメイン
+* Pythonがちょっと
 
 ### Interests
 * 自然言語処理

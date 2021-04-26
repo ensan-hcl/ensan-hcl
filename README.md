@@ -1,6 +1,6 @@
 ### Data
 * 日本語話者(Japanese speaker)🇯🇵
-* 大学生(University student)🏫
+* 大学2年生
 
 ### Skills
 * Swiftがメイン

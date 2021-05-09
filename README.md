@@ -32,3 +32,4 @@ azooKeyのカスタムタブを作成するためのツールキットを配布�
 * [Qiita](https://qiita.com/ensan_hcl)
 * [Zenn](https://zenn.dev/en3_hcl)
 * [TechFeed](https://techfeed.io/people/@ensan)
+* [Swift Forums](https://forums.swift.org/u/ensan-hcl)

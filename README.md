@@ -23,6 +23,9 @@ iOS向けの日本語キーボードアプリをApp Storeで公開していま�
 azooKeyのカスタムタブを作成するためのツールキットを配布しています。
 * [GitHub](https://github.com/ensan-hcl/CustardKit)
 
+#### KaomojiParser
+Swift向け顔文字処理パッケージです。テキストから顔文字を抽出/除去できます。
+* [KaomojiParser - GitHub](https://github.com/ensan-hcl/KaomojiParser)
 
 #### 発音しないチャレンジ
 入力された単語をなるべく黙字で読むことで、発音せずに済ませるゲーム？です。GitHub Pagesで公開しています。

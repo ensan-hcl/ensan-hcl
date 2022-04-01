@@ -1,6 +1,6 @@
 ### Data
 * 日本語話者(Japanese speaker)🇯🇵
-* 大学2年生
+* 大学3年生
 
 ### Programming Languages
 * Swift (★★★★☆)

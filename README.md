@@ -22,7 +22,8 @@
 ### azooKey - 自由自在なキーボードアプリ
 <img src="./azooKey_image.png" width="500">
 
-iOS向けの日本語キーボードアプリをApp Storeで公開しています。
+OSSのiOS向け日本語キーボードアプリをApp Storeで公開しています。
+* [GitHub](https://github.com/ensan-hcl/azooKey)
 * [App Store](https://apps.apple.com/jp/app/id1542709230)
 * [Website](https://azookey.netlify.app/)
 * [Twitter](https://twitter.com/azooKey_dev)

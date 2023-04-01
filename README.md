@@ -1,6 +1,6 @@
 # Ensan
 * 日本語話者 (Japanese Speaker)
-* 大学3年生
+* 大学4年生
 * [azooKey](https://apps.apple.com/jp/app/azookey-%E8%87%AA%E7%94%B1%E8%87%AA%E5%9C%A8%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1542709230)の開発者
 * [Turing](https://www.turing-motors.com/)のインターン
 

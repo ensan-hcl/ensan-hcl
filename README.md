@@ -1,14 +1,14 @@
-# Ensan
+# Miwa / Ensan
 * 日本語話者 (Japanese Speaker)
 * 大学4年生
 * [azooKey](https://apps.apple.com/jp/app/azookey-%E8%87%AA%E7%94%B1%E8%87%AA%E5%9C%A8%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1542709230)の開発者
 * [Turing](https://www.turing-motors.com/)のインターン
 
-## Programming Languages
+## Skills
 * Swift (★★★★☆)
 * Python (★★★☆☆)
 * C++ (★★☆☆☆)
-* JavaScript, TypeScript (★☆☆☆☆)
+* JavaScript, TypeScript, C#, Kotlin, Java (★☆☆☆☆)
 
 ## Interests
 * 自然言語処理
@@ -28,21 +28,30 @@ OSSのiOS向け日本語キーボードアプリをApp Storeで公開してい�
 * [Website](https://azookey.netlify.app/)
 * [Twitter](https://twitter.com/azooKey_dev)
 
+#### AzooKeyKanaKanjiConverter
+
+[AzooKeyKanaKanjiConverter](https://github.com/ensan-hcl/AzooKeyKanaKanjiConverter)はazooKeyの中核となる日本語入力エンジンをSwift Packageとして切り出したものです。
+
 #### CustardKit
 <img src="./CustardKit_intro.png" width="500">
 
 azooKeyのカスタムタブを作成するためのツールキットを配布しています。
 * [GitHub](https://github.com/ensan-hcl/CustardKit)
 
-## KaomojiParser
+
+### KaomojiParser
 Swift向け顔文字処理パッケージです。テキストから顔文字を抽出/除去できます。
 * [KaomojiParser - GitHub](https://github.com/ensan-hcl/KaomojiParser)
 
-## 発音しないチャレンジ
+### 発音しないチャレンジ
 入力された単語をなるべく黙字で読むことで、発音せずに済ませるゲームです。GitHub Pagesで公開しています。
 * [発音しないチャレンジ](https://ensan-hcl.github.io/NotPronouncingChallenge)
 
-# Links
+## Presentations
+* [iOSのKeyboard Extensionで日本語入力できるキーボードアプリを作ろう！ by Miwa | トーク | iOSDC Japan 2023](https://fortee.jp/iosdc-japan-2023/proposal/87be3428-5381-4aa3-8127-cfd714663429)
+
+
+## Links
 * [Zenn](https://zenn.dev/en3_hcl)
 * [Qiita](https://qiita.com/ensan_hcl)
 * [Swift Forums](https://forums.swift.org/u/ensan-hcl)

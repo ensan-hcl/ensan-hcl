@@ -1,8 +1,8 @@
 # Miwa / Ensan
 * 日本語話者 (Japanese Speaker)
-* 大学4年生
-* [azooKey](https://apps.apple.com/jp/app/azookey-%E8%87%AA%E7%94%B1%E8%87%AA%E5%9C%A8%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1542709230)の開発者
-* [Turing](https://www.turing-motors.com/)のインターン
+* 大学院修士1年 (M1)
+* [Turing](https://www.turing-motors.com/)のエンジニア (Engineer at Turing.inc)
+* [azooKey](https://apps.apple.com/jp/app/azookey-%E8%87%AA%E7%94%B1%E8%87%AA%E5%9C%A8%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1542709230)の開発者 (Developer of azooKey)
 
 ## Skills
 * Swift (★★★★☆)
@@ -49,7 +49,7 @@ Swift向け顔文字処理パッケージです。テキストから顔文字を
 
 ## Presentations
 * [iOSのKeyboard Extensionで日本語入力できるキーボードアプリを作ろう！ by Miwa | トーク | iOSDC Japan 2023](https://fortee.jp/iosdc-japan-2023/proposal/87be3428-5381-4aa3-8127-cfd714663429)
-
+* [工学的性能と人間らしさの関係はトークン分割に依存する - 言語処理学会 第30回年次大会 発表論文集（2024年3月）](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D7-6.pdf)
 
 ## Links
 * [Zenn](https://zenn.dev/en3_hcl)

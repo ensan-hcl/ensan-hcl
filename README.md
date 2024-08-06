@@ -2,6 +2,7 @@
 * 日本語話者 (Japanese Speaker)
 * 大学院修士1年 (M1)
 * [Turing](https://www.turing-motors.com/)のエンジニア (Engineer at Turing.inc)
+* 2024年度未踏IT事業に「[ニューラル言語モデルによる個人最適な日本語入力システムの開発](https://www.ipa.go.jp/jinzai/mitou/it/2024/gaiyou-ok-3.html)」で採択
 * [azooKey](https://apps.apple.com/jp/app/azookey-%E8%87%AA%E7%94%B1%E8%87%AA%E5%9C%A8%E3%81%AA%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1542709230)の開発者 (Developer of azooKey)
 
 ## Skills
@@ -28,16 +29,19 @@ OSSのiOS向け日本語キーボードアプリをApp Storeで公開してい�
 * [Website](https://azookey.netlify.app/)
 * [Twitter](https://twitter.com/azooKey_dev)
 
+### azooKey on macOS
+
+[azooKey on macOS](https://github.com/ensan-hcl/azooKey-Desktop)はmacOSで動作する日本語入力システムです。独自に開発したニューラル日本語入力エンジン「Zenzai」を搭載し、高速で高精度な最先端のシステムを実現しています。
+
 #### AzooKeyKanaKanjiConverter
 
-[AzooKeyKanaKanjiConverter](https://github.com/ensan-hcl/AzooKeyKanaKanjiConverter)はazooKeyの中核となる日本語入力エンジンをSwift Packageとして切り出したものです。
+[AzooKeyKanaKanjiConverter](https://github.com/ensan-hcl/AzooKeyKanaKanjiConverter)はazooKeyの中核となる日本語入力エンジンをSwift Packageとして切り出したものです。ニューラル日本語入力エンジン「Zenzai」を含むかな漢字変換機能のAPIを容易に利用な形で公開しています。
 
 #### CustardKit
 <img src="./CustardKit_intro.png" width="500">
 
 azooKeyのカスタムタブを作成するためのツールキットを配布しています。
 * [GitHub](https://github.com/ensan-hcl/CustardKit)
-
 
 ### KaomojiParser
 Swift向け顔文字処理パッケージです。テキストから顔文字を抽出/除去できます。

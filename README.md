@@ -20,7 +20,7 @@
 * フォント処理
 
 ## Works
-### azooKey - 自由自在なキーボードアプリ
+### 日本語入力システム
 <img src="./azooKey_image.png" width="500">
 
 OSSのiOS向け日本語キーボードアプリをApp Storeで公開しています。
@@ -29,9 +29,7 @@ OSSのiOS向け日本語キーボードアプリをApp Storeで公開してい�
 * [Website](https://azookey.netlify.app/)
 * [Twitter](https://twitter.com/azooKey_dev)
 
-### azooKey on macOS
-
-[azooKey on macOS](https://github.com/ensan-hcl/azooKey-Desktop)はmacOSで動作する日本語入力システムです。独自に開発したニューラル日本語入力エンジン「Zenzai」を搭載し、高速で高精度な最先端のシステムを実現しています。
+また、[azooKey on macOS](https://github.com/ensan-hcl/azooKey-Desktop)はmacOSで動作する日本語入力システムです。独自に開発したニューラル日本語入力エンジン「Zenzai」を搭載し、高速で高精度な最先端のシステムを実現しています。
 
 #### AzooKeyKanaKanjiConverter
 
@@ -43,17 +41,14 @@ OSSのiOS向け日本語キーボードアプリをApp Storeで公開してい�
 azooKeyのカスタムタブを作成するためのツールキットを配布しています。
 * [GitHub](https://github.com/ensan-hcl/CustardKit)
 
-### KaomojiParser
-Swift向け顔文字処理パッケージです。テキストから顔文字を抽出/除去できます。
-* [KaomojiParser - GitHub](https://github.com/ensan-hcl/KaomojiParser)
-
-### 発音しないチャレンジ
-入力された単語をなるべく黙字で読むことで、発音せずに済ませるゲームです。GitHub Pagesで公開しています。
-* [発音しないチャレンジ](https://ensan-hcl.github.io/NotPronouncingChallenge)
-
-## Presentations
+## Publications and Appearances
 * [iOSのKeyboard Extensionで日本語入力できるキーボードアプリを作ろう！ by Miwa | トーク | iOSDC Japan 2023](https://fortee.jp/iosdc-japan-2023/proposal/87be3428-5381-4aa3-8127-cfd714663429)
 * [工学的性能と人間らしさの関係はトークン分割に依存する - 言語処理学会 第30回年次大会 発表論文集（2024年3月）](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D7-6.pdf)
+* [120. ニューラルかな漢字変換 w/ miwa_ensan - fukabori.fm](https://fukabori.fm/episode/120)
+
+## Media Coverage
+* [（一押しアプリ） azooKey　よく使う単語 簡単入力 - 日本経済新聞](https://www.nikkei.com/article/DGKKZO77665450V10C24A1X45000/) - 2024年1月16日
+* [HHKBキラー？　東プレ「REALFORCE RC1」を試す　小型ながら“絶妙に分かってる”キー配列とは：小寺信良のIT大作戦 - ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2411/05/news128.html) - 2024年11月05日
 
 ## Links
 * [Zenn](https://zenn.dev/en3_hcl)
